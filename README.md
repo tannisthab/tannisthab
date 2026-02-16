@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Tannistha 👋
 
-<!--
-**tannisthab/tannisthab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Data Science & Analytics – Jain University  
+📊 Semester 1 SGPA: 9.45  
+💻 Passionate about Data Analytics & Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+
+### Programming Languages
+- C
+- C++
+- Python (Beginner)
+- R (Beginner)
+
+### Databases
+- Database Management Systems (DBMS)
+- MongoDB (Beginner)
+- Basic SQL
+
+### Core Subjects
+- Mathematics for Computing
+- Statistical Foundations
+
+---
+
+## 🚀 Current Focus
+- Strengthening programming concepts
+- Practicing SQL & MongoDB queries
+- Learning Data Analysis using Python
+- Building beginner-level projects
